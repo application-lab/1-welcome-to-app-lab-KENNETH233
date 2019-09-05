@@ -1,22 +1,12 @@
-# Assignment 1: Welcome to App Lab
-Due Wednesday, September 11 
-
-# Instructions
-1. Clone this repository to your local computer (hint: use the terminal and the `git clone` command).
-2. Open the `welcome-to-app-lab-yourgithubusername` folder in vscode.
-3. Open the the file `README.md`.
-4. Replace the **About Me** section with your own. I've included my own as a template.
-5. Delete the **Assignment** and **Instructions** sections.
-7. `git push` your changed file - this is your assignment submission (don't forget a `commit` message)!
- 
-Be sure and use [markdown](https://medium.com/applab-fall-2019/homework-1-github-bootcamp-bb21077a878b) to help format your document. You can study this document and how it appears on Github to learn more.
-
 # About Me
-Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+Hello! My name is Kenneth and I live in Shanghai, China. I spend time exploring my interest but I am not sure what I want to do in the future. For now, I love IMA and I want to explore the combination of art and technology, which is what IMA does. I can speak English and Chinese. I took interaction lab last semester and I made one interactive product and one escaping game on computer. I am so proud of my achievement in last semester. I hope that I can continue to make some fantastic project in App Lab and I am looking forward to join the final IMA show.
 
-I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+I am sophomore now. Joining the big family of NYU Shanghai is the best choice I have ever made. I will never be regret for this amazing decesion. In this building in Lujiazui. I have met many good friends and staffs, excellent professors and fellows. I meet what I love--IMA and make up my mind to do something different with IMA skills in the future. 
 
-My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem.
+For this semester, I also take VR/AR Fundmentals because I am really interested in VR and AR. I think they are the future. With the development of 5g tehcnology, I think that AR/VR can be used in real production and they can be key roles in some area. I hope that I can take away something from this class and I really want to make a great AR/VR project. That will be terrific if I can have a chance to do some undergraduated research and create a new things.
+
+I am really happy to be in App Lab and have Christian to be my teacher and friend. I think I will have a good time in App Lab this semester!
+
 
 
 
